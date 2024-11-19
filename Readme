@@ -1,0 +1,7 @@
+Executar o jogo
+
+Inicie o servidor:
+ruby server.rb
+
+Em outro terminal, inicie o cliente:
+ruby client.rb
